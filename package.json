@@ -1,0 +1,15 @@
+{
+  "name": "fallback",
+  "version": "0.0.1",
+  "description": "Gives better names to JavaScript's two prototypes",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test",
+    "hint": "jshint --config .jshintrc ."
+  },
+  "author": "John K. Paul",
+  "license": "MIT",
+  "devDependencies": {
+    "jshint": "~2.1.11"
+  }
+}
